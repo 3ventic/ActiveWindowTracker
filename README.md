@@ -5,3 +5,5 @@ Find out what application is grabbing focus, when it is not obvious. Works by fi
 ## How to Use
 
 Go to Releases, download the zip, extract all and run.
+
+Supports recent 64-bit editions of Windows 10 and above.
